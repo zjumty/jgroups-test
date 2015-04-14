@@ -1,1 +1,1 @@
-# jgroups-test
+# JGroups Test
